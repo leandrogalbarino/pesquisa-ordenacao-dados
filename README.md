@@ -8,7 +8,7 @@ Este repositório contém implementações de algoritmos de pesquisa e ordenaç�
 Implementações de algoritmos para buscar dados em coleções, como listas e árvores.
 
 - **[Busca de Dados](https://github.com/leandrogalbarino/pesquisa-ordenacao-dados/tree/main/busca-dados)** 
-- **[Baixar Empresas0](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj) - Base de dados usada na implementação
+- **[Baixar Empresas0](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj)** - Base de dados usada na implementação
 ### 2. Ordenação de Dados
 Algoritmos clássicos de ordenação de dados, como Bubble Sort, Merge Sort, Quick Sort, entre outros.
 
