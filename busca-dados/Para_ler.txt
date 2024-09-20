@@ -1,0 +1,4 @@
+Colocar o arquivo CSV na pasta Empresas0;
+Baixar o Arquivo Empresas0.
+
+Para compilar: gcc -ansi -o main main.c busca.c string_utils.c
